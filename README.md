@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Python`**
 
-Me chamo Eduardo Medolago, tenho 20 anos, e atualmente estou cursando Análise e Desenvolvimeento dee Sistemas pela Faculdade de Tecnologia de Botucatu. Ao longo de minha formação e atividades extracurriculares, adquiri sólidos conhecimentos em desenvolvimento, com foco em Python e suas bibliotecas, bem como RPA , Machine Learning e Banco de Dados.
+Me chamo Eduardo Medolago, tenho 20 anos, e atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de Botucatu. Ao longo de minha formação e atividades extracurriculares, adquiri sólidos conhecimentos em desenvolvimento, com foco em Python e suas bibliotecas, bem como RPA , Machine Learning e Banco de Dados.
 
 ---
 
