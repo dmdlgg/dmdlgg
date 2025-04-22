@@ -55,27 +55,6 @@ Me chamo Eduardo Medolago, tenho 20 anos, e atualmente estou cursando Análise e
 
 <img 
     align="left" 
-    alt="Tensor Flow" 
-    title="Tensor Flow"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"       
-/>
-
-<img 
-    align="left" 
-    alt="Scikitlearn" 
-    title="Scikitleaarn"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"       
-/>
-
-
-
-
-<img 
-    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
