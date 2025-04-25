@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Python`**
 
-### Desenvolvedor em formação, estudante de Análise e Desenvolvimento de Sistemas pela [Faculdade de Tecnologia de Botucatu](https://www.fatecbt.edu.br/fatec/) e apaixonado por tecnologia e resolução de problemas de forma criativa. Busco oportunidades na área de desenvolvimento, com foco em back-end e análise de dados.
+### Graduando em Análise e Desenvolvimento de Sistemas pela [Faculdade de Tecnologia de Botucatu](https://www.fatecbt.edu.br/fatec/). Ao longo de minha formação e atividades extracurriculares, venho obtendo sólidos conhecimentos em Python e suas bibliotecas, bem como análise de dados e banco de dados. Busco oportunidades na área de desenvolvimento, com foco em back-end e análise de dados.
 ---
 
 ### 🤖 Linguagens e Tecnologias
