@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Python`**
 
-### Graduando em Análise e Desenvolvimento de Sistemas pela [Faculdade de Tecnologia de Botucatu](https://www.fatecbt.edu.br/fatec/). Ao longo de minha formação e atividades extracurriculares, venho obtendo sólidos conhecimentos em Python e suas bibliotecas, bem como análise de dados e banco de dados. Busco oportunidades na área de desenvolvimento, com foco em back-end e análise de dados.
+### Graduando em Análise e Desenvolvimento de Sistemas pela [Faculdade de Tecnologia de Botucatu](https://www.fatecbt.edu.br/fatec/). Ao longo de minha formação e atividades extracurriculares, venho obtendo sólidos conhecimentos em Python e suas bibliotecas. Busco oportunidades na área de desenvolvimento, com foco em back-end e análise de dados.
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -27,12 +27,22 @@
 
 <img 
     align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
+/>
+
+<img 
+    align="left" 
     alt="MySQL" 
     title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"       
 />
+
 
 <img 
     align="left" 
