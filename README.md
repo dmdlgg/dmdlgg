@@ -36,8 +36,8 @@
 
 <img 
     align="left" 
-    alt="Django" 
-    title="Django"
+    alt="DRF" 
+    title="DRF"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" 
@@ -52,6 +52,14 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"       
 />
 
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />       
+/>
 
 <img 
     align="left" 
