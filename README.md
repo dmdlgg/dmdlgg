@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Python`**
 
-### Graduando em Análise e Desenvolvimento de Sistemas pela [Faculdade de Tecnologia de Botucatu](https://www.fatecbt.edu.br/fatec/). Desenvolvedor Back-end Python & Django focado em gerar resultados de negócio. Sou especialista em construir APIs RESTful robustas e em utilizar Pandas para transformar dados brutos em insights estratégicos. Com conhecimentos em HTML, CSS e JS, garanto uma colaboração fluida com equipes de front-end para entregar produtos coesos e de alto impacto. Busco ativamente desafios para resolver problemas complexos com código limpo e eficiente.
+### Graduando em Análise e Desenvolvimento de Sistemas pela [Faculdade de Tecnologia de Botucatu](https://www.fatecbt.edu.br/fatec/). Sou um desenvolvedor Back-end em Python e Django, com experiência na construção de APIs RESTful e no uso de Pandas para análise e extração de insights a partir de dados. Tenho como objetivo desenvolver soluções práticas e bem estruturadas, priorizando clareza e manutenção do código. Busco constantemente aprimorar minhas habilidades e contribuir em projetos que envolvam desafios técnicos e impacto positivo.
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -58,7 +58,7 @@
     title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />       
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"      
 />
 
 <img 
