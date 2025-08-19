@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Python`**
 
-### Graduando em Análise e Desenvolvimento de Sistemas pela [Faculdade de Tecnologia de Botucatu](https://www.fatecbt.edu.br/fatec/). Sou um desenvolvedor Back-end em Python e Django, com experiência na construção de APIs RESTful e no uso de Pandas para análise e extração de insights a partir de dados. Tenho como objetivo desenvolver soluções práticas e bem estruturadas, priorizando clareza e manutenção do código. Busco constantemente aprimorar minhas habilidades e contribuir em projetos que envolvam desafios técnicos e impacto positivo.
+### Graduando em Análise e Desenvolvimento de Sistemas pela [Faculdade de Tecnologia de Botucatu](https://www.fatecbt.edu.br/fatec/). Sou um desenvolvedor Back-end em Python (Django) e Java (Spring Boot), com experiência na construção de APIs RESTful e no uso de Pandas para análise e extração de insights a partir de dados. Tenho como objetivo desenvolver soluções práticas e bem estruturadas, priorizando clareza e manutenção do código. Busco constantemente aprimorar minhas habilidades e contribuir em projetos que envolvam desafios técnicos e impacto positivo.
 ---
 
 ### 🤖 Linguagens e Tecnologias
