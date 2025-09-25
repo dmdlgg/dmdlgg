@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-### Graduando em Análise e Desenvolvimento de Sistemas pela [Faculdade de Tecnologia de Botucatu](https://www.fatecbt.edu.br/fatec/). Sou um desenvolvedor full stack que tem como principais tecnologias Python (Django), Java (Spring Boot) e Javascript (React). Com experiência na construção de APIs RESTful e criação de sites responsivos. Tenho como objetivo desenvolver soluções práticas e bem estruturadas, priorizando clareza e manutenção do código. Busco constantemente aprimorar minhas habilidades e contribuir em projetos que envolvam desafios técnicos e impacto positivo.
+### Graduando em Análise e Desenvolvimento de Sistemas pela [Faculdade de Tecnologia de Botucatu](https://www.fatecbt.edu.br/fatec/). Sou um desenvolvedor que tem como principais tecnologias Python (Django e DRF). Com experiência na construção de APIs RESTful e criação de sites responsivos. Tenho como objetivo desenvolver soluções práticas e bem estruturadas, priorizando clareza e manutenção do código. Busco constantemente aprimorar minhas habilidades e contribuir em projetos que envolvam desafios técnicos e impacto positivo.
 ---
 
 ### 🤖 Linguagens e Tecnologias
