@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-### Graduando em Análise e Desenvolvimento de Sistemas pela [Faculdade de Tecnologia de Botucatu](https://www.fatecbt.edu.br/fatec/). Sou um desenvolvedor que tem como principais tecnologias Python (Django e DRF) para back-end e Javascript/Typescript para front-end. Com experiência na construção de APIs RESTful e criação de sites responsivos e integração com Inteligência Artificial. Tenho como objetivo desenvolver soluções práticas e bem estruturadas, priorizando clareza e manutenção do código. Busco constantemente aprimorar minhas habilidades e contribuir em projetos que envolvam desafios técnicos e impacto positivo.
+### Graduando em Análise e Desenvolvimento de Sistemas pela [Faculdade de Tecnologia de Botucatu](https://www.fatecbt.edu.br/fatec/). Sou um desenvolvedor full-stack que tem como principais tecnologias Python (Django e DRF) para back-end e Javascript/React para front-end. Com experiência na construção de APIs RESTful e criação de sites responsivos e integração com Inteligência Artificial. Tenho como objetivo desenvolver soluções práticas e bem estruturadas, priorizando clareza e manutenção do código. Busco constantemente aprimorar minhas habilidades e contribuir em projetos que envolvam desafios técnicos e impacto positivo.
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -32,6 +32,24 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Tailwind CSS" 
+    title="Tailwind CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
 />
 
 <img 
