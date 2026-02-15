@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Eduardo Medolago
 
-**`Desenvolvedor Full Stack`**
+**`Software Developer | Backend & AI`**
 
-### Graduando em Análise e Desenvolvimento de Sistemas pela [Faculdade de Tecnologia de Botucatu](https://www.fatecbt.edu.br/fatec/). Sou um desenvolvedor full-stack que tem como principais tecnologias Python (Django e DRF) para back-end e Typescript para front-end. Com experiência na construção de APIs RESTful e criação de sites responsivos e integração com Inteligência Artificial. Tenho como objetivo desenvolver soluções práticas e bem estruturadas, priorizando clareza e manutenção do código. Busco constantemente aprimorar minhas habilidades e contribuir em projetos que envolvam desafios técnicos e impacto positivo.
+### Graduando em Análise e Desenvolvimento de Sistemas pela [Faculdade de Tecnologia de Botucatu](https://www.fatecbt.edu.br/fatec/). Sou um desenvolvedor que tem como principais tecnologias Python (Django e DRF) e Node.js (NestJS) para back-end e Typescript (React) para front-end. Com experiência na construção de APIs e criação de sites responsivos e integração com Inteligência Artificial. Tenho como objetivo desenvolver soluções práticas e bem estruturadas, priorizando clareza e manutenção do código. Busco constantemente aprimorar minhas habilidades e contribuir em projetos que envolvam desafios técnicos e impacto positivo.
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -41,6 +41,24 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+/>
+
+<img 
+    align="left" 
+    alt="NestJS" 
+    title="NestJS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg"
 />
 
 <img 
